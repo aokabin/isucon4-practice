@@ -1,0 +1,1 @@
+/Users/kd/go/src/github.com/aokabin/isucon4-practice/env.sh
